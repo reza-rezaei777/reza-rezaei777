@@ -1,5 +1,24 @@
 # 💫 About Me:
-⚡I Interested in programming and technology.<br>🌱Skilled in C# , Asp.net Core, .NET Framework ,ORM EFCore ,ORM Dapper, C/C++, Microsoft Sql Server, Api  and Software Development. <br>Strong engineering professional with a Bachelor's degree focused in Computer Engineering from Payame Noor University (Distance Education). <br>💬I like to be always up to date and increase my knowledge.
+
+⚡ I'm passionate about programming and technology, always eager to learn and explore new advancements.  
+🌱 **Skilled in**:  
+   - C#  
+   - ASP.NET Core  
+   - .NET Framework  
+   - Entity Framework Core (EFCore)  
+   - Dapper  
+   - C/C++  
+   - Microsoft SQL Server  
+   - API Development  
+   - Full-stack Software Development  
+
+🎓 **Education**:  
+   Strong engineering professional with a Bachelor's degree in **Computer Engineering** from *Payame Noor University (Distance Education)*.
+
+💼 **Professional Experience**:  
+   Actively working in programming since **2020**, with a constant drive to stay up-to-date with the latest technologies and enhance my skills.
+
+💬 I enjoy learning new things and sharing knowledge, always looking for opportunities to grow as a developer.
 
 
 ## 🌐 Socials:
